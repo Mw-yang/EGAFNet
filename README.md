@@ -23,8 +23,7 @@ If you use EGAFNet in your work please cite our paper:
   pages={1-16},  
   doi={10.1109/TGRS.2023.3300533}}
 * BibTex：
-
-
+```
     @ARTICLE{10819433,
       author={Yang, Mingwang and Zhao, Like and Ye, Linfeng and Jia, Weishi and Jiang, Huawei and Yang, Zhen},
       journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -35,6 +34,7 @@ If you use EGAFNet in your work please cite our paper:
       pages={1-13},
       doi={10.1109/TGRS.2024.3524547}
     }
+```
 
     
 
