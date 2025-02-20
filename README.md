@@ -14,36 +14,22 @@
 
 
 ## Cite
-If you use ICIF-Net and DMINet in your work please cite our paper:
+If you use EGAFNet in your work please cite our paper:
 * BibTex：
 
 
-    @ARTICLE{10034787,
-      author={Feng, Yuchao and Jiang, Jiawei and Xu, Honghui and Zheng, Jianwei},
+    @ARTICLE{10819433,
+      author={Yang, Mingwang and Zhao, Like and Ye, Linfeng and Jia, Weishi and Jiang, Huawei and Yang, Zhen},
       journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-      title={Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network}, 
-      year={2023},
-      volume={},
-      number={},
-      pages={1-1},
-      doi={10.1109/TGRS.2023.3241257}
-    }
-
-
-    @ARTICLE{9759285,
-      author={Feng, Yuchao and Xu, Honghui and Jiang, Jiawei and Liu, Hao and Zheng, Jianwei},
-      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-      title={ICIF-Net: Intra-Scale Cross-Interaction and Inter-Scale Feature Fusion Network for Bitemporal Remote Sensing Images Change Detection}, 
-      year={2022},
-      volume={60},
+      title={EGAFNet: An Edge Guidance and Scale-Aware Adaptive Fusion Network for Building Extraction From Remote Sensing Images}, 
+      year={2025},
+      volume={63},
       number={},
       pages={1-13},
-      doi={10.1109/TGRS.2022.3168331}
+      doi={10.1109/TGRS.2024.3524547}
     }
     
 
 * Plane Text：
-	
-    Y. Feng, J. Jiang, H. Xu and J. Zheng, "Change Detection on Remote Sensing Images using Dual-branch Multi-level Inter-temporal Network," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3241257.
-    
-    Y. Feng, H. Xu, J. Jiang, H. Liu and J. Zheng, "ICIF-Net: Intra-Scale Cross-Interaction and Inter-Scale Feature Fusion Network for Bitemporal Remote Sensing Images Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 4410213, doi: 10.1109/TGRS.2022.3168331.
+
+    M. Yang, L. Zhao, L. Ye, W. Jia, H. Jiang and Z. Yang, "EGAFNet: An Edge Guidance and Scale-Aware Adaptive Fusion Network for Building Extraction From Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-13, 2025, Art no. 4700513, doi: 10.1109/TGRS.2024.3524547.
