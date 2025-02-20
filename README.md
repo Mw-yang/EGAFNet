@@ -7,10 +7,8 @@
 
 
 ## Datesets:
-* WHU Building Dataset:
-[WHU Building Dataset](http://gpcv.whu.edu.cn/data/building_dataset.html)
-* A dataset of building instances of typical cities in China:
-[A dataset of building instances of typical cities in China](https://doi.org/10.11922/sciencedb.00620)
+* [WHU Building Dataset](http://gpcv.whu.edu.cn/data/building_dataset.html)
+* [A dataset of building instances of typical cities in China](https://doi.org/10.11922/sciencedb.00620)
 
 
 ## Cite
