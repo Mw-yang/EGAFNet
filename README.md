@@ -12,11 +12,11 @@
 
 ## Requirements
 ```
-python = 3.7.12  
-pytorch = 1.13.1  
-opencv-python = 4.10.0.84  
-scikit-image  
-scikit-learn  
+python = 3.7.12
+pytorch = 1.13.1 
+opencv-python = 4.10.0.84
+scikit-image
+scikit-learn
 tqdm
 ```
 ...
