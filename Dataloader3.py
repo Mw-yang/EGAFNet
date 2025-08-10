@@ -141,4 +141,5 @@ class MyDataset_test(data.Dataset):     # 定义自己的数据集
 
 # if __name__ == '__main__':           # 打印出图片或者标签的数量
 #     num = len(os.listdir(r'C:\Users\Administrator\Desktop\U_Net\Cheng_Road_Dataset\Train\image'))
+
 #     print("数据个数：", num)
