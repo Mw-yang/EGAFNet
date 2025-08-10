@@ -1,6 +1,6 @@
 from torchvision.utils import save_image
 import cv2
-from Dataloader3whu import *
+from Dataloader3 import *
 import numpy as np
 from matplotlib import pyplot as plt
 from torch import nn, optim
@@ -90,4 +90,5 @@ def test():
 
 if __name__ == '__main__':
     net.eval()
+
     test()
