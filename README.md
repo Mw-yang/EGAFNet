@@ -10,17 +10,6 @@
 * [WHU Building Dataset](http://gpcv.whu.edu.cn/data/building_dataset.html)
 * [A dataset of building instances of typical cities in China](https://doi.org/10.11922/sciencedb.00620)
 
-## Requirements
-```
-python = 3.7.12
-pytorch = 1.13.1 
-opencv-python = 4.10.0.84
-scikit-image
-scikit-learn
-tqdm
-...
-```
-
 ## Data Format
 ```
 WHU
@@ -47,6 +36,17 @@ WHU
     │ ├── 3.tif
     │ └── ...
     ...
+```
+
+## Requirements
+```
+python = 3.7.12
+pytorch = 1.13.1 
+opencv-python = 4.10.0.84
+scikit-image
+scikit-learn
+tqdm
+...
 ```
 
 ## Cite
