@@ -1,6 +1,6 @@
 # EGAFNet
 ## Papers
-* (TGRS 2025) EGAFNet: An Edge Guidance and Scale-Aware Adaptive Fusion Network for Building Extraction From Remote Sensing Images. [paper](https://ieeexplore.ieee.org/document/10819433) and [source_code](https://github.com/Mw-yang/EGAFNet/)
+* (TGRS 2025) EGAFNet: An Edge Guidance and Scale-Aware Adaptive Fusion Network for Building Extraction From Remote Sensing Images. [Paper](https://ieeexplore.ieee.org/document/10819433) and [Source_code](https://github.com/Mw-yang/EGAFNet/)
 
 
 ![image-model](./image/model.png)
