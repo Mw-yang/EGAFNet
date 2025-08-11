@@ -19,7 +19,7 @@ scikit-image
 scikit-learn
 tqdm
 ```
-...
+
 ## Data Format
 ```
 WHU
