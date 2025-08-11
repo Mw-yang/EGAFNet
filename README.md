@@ -18,6 +18,7 @@ opencv-python = 4.10.0.84
 scikit-image
 scikit-learn
 tqdm
+...
 ```
 
 ## Data Format
@@ -45,6 +46,7 @@ WHU
     │ ├── 2.tif
     │ ├── 3.tif
     │ └── ...
+    ...
 ```
 
 ## Cite
